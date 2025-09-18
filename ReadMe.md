@@ -111,6 +111,12 @@ Chauhan (Neoites Team)**.
 
 ------------------------------------------------------------------------
 
+## Architecture Diagram
+
+<img width="2764" height="1404" alt="image" src="https://github.com/user-attachments/assets/f88641b2-b778-4dcd-9986-394a49017f2b" />
+
+------------------------------------------------------------------------
+
 ## 🙌 Acknowledgements
 
 Developed by **Abhishek Chauhan (Neoites)** for the **Agentic Era
