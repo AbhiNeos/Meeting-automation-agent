@@ -1,4 +1,4 @@
-# my-awesome-agent
+# Meeting Agent Automation
 
 
 Agent generated with [`googleCloudPlatform/agent-starter-pack`](https://github.com/GoogleCloudPlatform/agent-starter-pack) version `0.14.1`
