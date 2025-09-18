@@ -113,7 +113,8 @@ Chauhan (Neoites Team)**.
 
 ## Architecture Diagram
 
-<img width="2764" height="1404" alt="image" src="https://github.com/user-attachments/assets/f88641b2-b778-4dcd-9986-394a49017f2b" />
+<img width="771" height="431" alt="Architecture diagram" src="https://github.com/user-attachments/assets/3d47c453-7939-4776-82d5-98cf2aa74413" />
+
 
 ------------------------------------------------------------------------
 
