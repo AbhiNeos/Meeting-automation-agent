@@ -46,7 +46,7 @@ Chauhan (Neoites Team)**.
 
 3.  **Install dependencies**
 
-    from pyproject.toml file
+    ```from pyproject.toml file```
 
 4.  **Set up the `.env` file**\
     ⚠️ For security reasons, the `.env` file that contained credentials
